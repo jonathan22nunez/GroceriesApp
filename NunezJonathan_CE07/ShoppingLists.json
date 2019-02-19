@@ -1,0 +1,32 @@
+[
+  {
+    "listName": "Beverages",
+    "itemsInList": [
+        "Milk",
+        "Orange Juice",
+        "Cranberry Juice",
+        "Apple Juice",
+        "Soda"
+    ]
+  },
+  {
+    "listName": "Meats",
+    "itemsInList": [
+        "Ground Beef",
+        "Chicken Breasts",
+        "Salmon Fillets",
+        "Turkey Breasts",
+        "Veggie Meat"
+    ]
+  },
+  {
+    "listName": "Fruits",
+    "itemsInList": [
+        "Bananas",
+        "Strawberries",
+        "Blueberries",
+        "Kiwis",
+        "Peaches"
+    ]
+  }
+]
